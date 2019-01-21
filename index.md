@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a research scientist on the Core Data Science team at Facebook, where I lead the Economic Research team. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on implementing empirical Bayesian shrinkage estimators via experiment splitting, understanding the implications of imperfect treatment assignment, studying experimentation in markets, and the empirical analysis of auctions.
+I'm a research scientist on the [Core Data Science](https://research.fb.com/category/data-science/) team at Facebook, where I lead the Economic Research team. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on implementing empirical Bayesian shrinkage estimators via experiment splitting, understanding the implications of imperfect treatment assignment, studying experimentation in markets, and the empirical analysis of auctions.
 
 
 ## Publications
@@ -39,3 +39,6 @@ Dominic Coey, Bradley Larsen, Brennan Platt. _NBER Working Paper_.
 
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf)
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _NBER Working Paper_.
+
+## Contact
+Email: [myfirstname].[mylastname]@gmail.com.
