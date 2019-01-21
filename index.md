@@ -10,26 +10,26 @@ I'm a research scientist on the Core Data Science team at Facebook, where I lead
 Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, RAND Journal of Economics.
 
 
-[Improving Treatment Effect Estimators Through Experiment Splitting]()
-Dominic Coey, Tom Cunningham.      Forthcoming, The Web Conference (previously WWW) 2019.
+[Improving Treatment Effect Estimators Through Experiment Splitting]() <br/>
+Dominic Coey, Tom Cunningham. Forthcoming, The Web Conference (previously WWW) 2019.
 
-[Ascending Auctions with Bidder Asymmetries](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE474)
+[Ascending Auctions with Bidder Asymmetries](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE474) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Quantitative Economics, 2017.
 
-[People and Cookies: Imperfect Treatment Assignment in Online Experiments](http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p1103.pdf)
+[People and Cookies: Imperfect Treatment Assignment in Online Experiments](http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p1103.pdf) <br/>
 Dominic Coey, Michael Bailey. WWW, 2016.
 
-[The Effect of Medicaid on Health Care Consumption of Young Adults](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3042)
+[The Effect of Medicaid on Health Care Consumption of Young Adults](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3042) <br/>
 Dominic Coey. Health Economics, 2015.
 
-[Physicians’ Financial Incentives and Treatment Choices in Heart Attack Management](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE365)
+[Physicians’ Financial Incentives and Treatment Choices in Heart Attack Management](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE365) <br/>
 Dominic Coey. Quantitative Economics, 2014.
 
-[Why Marketplace Experimentation Is Harder Than It Seems: The Role of Test-Control Interference](https://dl.acm.org/citation.cfm?id=2602837)
+[Why Marketplace Experimentation Is Harder Than It Seems: The Role of Test-Control Interference](https://dl.acm.org/citation.cfm?id=2602837) <br/>
 Thomas Blake, Dominic Coey. EC, 2014.
 
-[Set-asides and Subsidies in Auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf).
-Susan Athey, Dominic Coey, and Jonathan Levin. AEJ: Microeconomics 2013. 
+[Set-asides and Subsidies in Auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf) <br/>
+Susan Athey, Dominic Coey, and Jonathan Levin. AEJ: Microeconomics 2013. <br/>
 American Economic Association Award for Best Paper in AEJ: Microeconomics, 2014.
 
 ## Working Papers
