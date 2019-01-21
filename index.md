@@ -7,7 +7,6 @@ I'm a research scientist on the Core Data Science team at Facebook, where I lead
 
 ## Publications
 [The Bidder Exclusion Effect](https://www.nber.org/papers/w20523.pdf)
-
 Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, RAND Journal of Economics.
 
 [Improving Treatment Effect Estimators Through Experiment Splitting]()
