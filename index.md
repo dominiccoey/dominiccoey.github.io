@@ -30,7 +30,7 @@ Thomas Blake, Dominic Coey. _EC, 2014_.
 
 [Set-Asides and Subsidies in Auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf) <br/>
 Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
-American Economic Association Award for Best Paper in _AEJ: Microeconomics, 2014_.
+2014 American Economic Association Award for Best Paper in _AEJ: Microeconomics_.
 
 ## Working Papers
 
