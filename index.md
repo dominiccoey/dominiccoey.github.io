@@ -5,120 +5,36 @@ layout: default
 I'm a research scientist on the Core Data Science team at Facebook, where I lead the Economic Research team. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on implementing empirical Bayesian shrinkage estimators via experiment splitting, understanding the implications of imperfect treatment assignment, studying experimentation in markets, and the empirical analysis of auctions.
 
 
-[Link to another page](./another-page.html).
+## Publications
+[The bidder exclusion effect](https://www.nber.org/papers/w20523.pdf)
+Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, RAND Journal of Economics.
 
-There should be whitespace between paragraphs.
+[Improving Treatment Effect Estimators Through Experiment Splitting]()
+Dominic Coey, Tom Cunningham. Forthcoming, The Web Conference (previously WWW) 2019.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[Ascending auctions with bidder asymmetries](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE474)
+Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Quantitative Economics, 2017.
 
-# Header 1
+[People and cookies: Imperfect treatment assignment in online experiments](http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p1103.pdf)
+Dominic Coey, Michael Bailey. WWW, 2016.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[The effect of Medicaid on health care consumption of young adults](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3042)
+Dominic Coey. Health Economics, 2015.
 
-## Header 2
+[Physicians’ Financial Incentives and Treatment Choices in Heart Attack Management](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE365)
+Dominic Coey. Quantitative Economics, 2014.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Why marketplace experimentation is harder than it seems: The role of test-control interference](https://dl.acm.org/citation.cfm?id=2602837)
+Thomas Blake, Dominic Coey. EC, 2014.
 
-### Header 3
+[Set-asides and subsidies in auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf).
+Susan Athey, Dominic Coey, and Jonathan Levin. AEJ: Microeconomics 2013. 
+American Economic Association Award for Best Paper in AEJ: Microeconomics, 2014.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Working Papers
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[A theory of bidding dynamics and deadlines in online retail](https://www.nber.org/papers/w22038.pdf)
+Dominic Coey, Bradley Larsen, Brennan Platt. NBER Working Paper.
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[The simple empirics of optimal online auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf)
+Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. NBER Working Paper.
