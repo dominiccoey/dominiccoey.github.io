@@ -11,7 +11,7 @@ Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, RAND Journal of Economi
 
 
 [Improving Treatment Effect Estimators Through Experiment Splitting]()
-Dominic Coey, Tom Cunningham.  Forthcoming, The Web Conference (previously WWW) 2019.
+Dominic Coey, Tom Cunningham.      Forthcoming, The Web Conference (previously WWW) 2019.
 
 [Ascending Auctions with Bidder Asymmetries](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE474)
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Quantitative Economics, 2017.
