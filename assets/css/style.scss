@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-:not(h1) a:hover {
+p a:hover {
     font-weight:normal;
 }
 
