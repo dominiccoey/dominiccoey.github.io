@@ -7,35 +7,35 @@ I'm a research scientist on the Core Data Science team at Facebook, where I lead
 
 ## Publications
 [The Bidder Exclusion Effect](https://www.nber.org/papers/w20523.pdf) <br/>
-Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, **RAND Journal of Economics**.
+Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, _RAND Journal of Economics_.
 
 
 [Improving Treatment Effect Estimators Through Experiment Splitting]() <br/>
 Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW) 2019_.
 
 [Ascending Auctions with Bidder Asymmetries](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE474) <br/>
-Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Quantitative Economics, 2017.
+Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _Quantitative Economics, 2017_.
 
 [People and Cookies: Imperfect Treatment Assignment in Online Experiments](http://gdac.uqam.ca/WWW2016-Proceedings/proceedings/p1103.pdf) <br/>
-Dominic Coey, Michael Bailey. WWW, 2016.
+Dominic Coey, Michael Bailey. _WWW, 2016_.
 
 [The Effect of Medicaid on Health Care Consumption of Young Adults](https://onlinelibrary.wiley.com/doi/abs/10.1002/hec.3042) <br/>
-Dominic Coey. Health Economics, 2015.
+Dominic Coey. _Health Economics, 2015_.
 
 [Physicians’ Financial Incentives and Treatment Choices in Heart Attack Management](https://onlinelibrary.wiley.com/doi/pdf/10.3982/QE365) <br/>
-Dominic Coey. Quantitative Economics, 2014.
+Dominic Coey. _Quantitative Economics, 2014_.
 
 [Why Marketplace Experimentation Is Harder Than It Seems: The Role of Test-Control Interference](https://dl.acm.org/citation.cfm?id=2602837) <br/>
-Thomas Blake, Dominic Coey. EC, 2014.
+Thomas Blake, Dominic Coey. _EC, 2014_.
 
 [Set-asides and Subsidies in Auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf) <br/>
-Susan Athey, Dominic Coey, and Jonathan Levin. AEJ: Microeconomics 2013. <br/>
-American Economic Association Award for Best Paper in AEJ: Microeconomics, 2014.
+Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
+American Economic Association Award for Best Paper in _AEJ: Microeconomics, 2014_.
 
 ## Working Papers
 
 [A Theory of Bidding Dynamics and Deadlines in Online Retail](https://www.nber.org/papers/w22038.pdf)
-Dominic Coey, Bradley Larsen, Brennan Platt. NBER Working Paper.
+Dominic Coey, Bradley Larsen, Brennan Platt. _NBER Working Paper_.
 
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf)
-Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. NBER Working Paper.
+Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _NBER Working Paper_.
