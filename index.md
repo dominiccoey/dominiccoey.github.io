@@ -28,7 +28,7 @@ Dominic Coey. _Quantitative Economics, 2014_.
 [Why Marketplace Experimentation Is Harder Than It Seems: The Role of Test-Control Interference](https://dl.acm.org/citation.cfm?id=2602837) <br/>
 Thomas Blake, Dominic Coey. _EC, 2014_.
 
-[Set-asides and Subsidies in Auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf) <br/>
+[Set-Asides and Subsidies in Auctions](https://web.stanford.edu/~jdlevin/Papers/Subsidies.pdf) <br/>
 Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
 American Economic Association Award for Best Paper in _AEJ: Microeconomics, 2014_.
 
