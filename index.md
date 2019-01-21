@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm a research scientist on the Core Data Science team at Facebook, where I lead the Economic Research team. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on implementing empirical Bayesian shrinkage estimators via experiment splitting, understanding the implications of imperfect treatment assignment, studying experimentation in markets, and the empirical analysis of auctions.
+
 
 [Link to another page](./another-page.html).
 
