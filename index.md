@@ -6,12 +6,12 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 
 ## Publications
+
+Improving Treatment Effect Estimators Through Experiment Splitting <br/>
+Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW), 2019_.
+
 [The Bidder Exclusion Effect](/assets/papers/bidder_exclusion.pdf) <br/>
-Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, _RAND Journal of Economics_.
-
-
-[Improving Treatment Effect Estimators Through Experiment Splitting](/assets/papers/experiment_splitting.pdf) <br/>
-Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW) 2019_.
+Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, _RAND Journal of Economics, 2019_. 
 
 [Ascending Auctions with Bidder Asymmetries](/assets/papers/ascending_asymmetries.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _Quantitative Economics, 2017_.
