@@ -7,7 +7,7 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 ## Publications
 
-Improving Treatment Effect Estimators Through Experiment Splitting <br/>
+Improving Treatment Effect Estimators Through Experiment Splitting(/assets/papers/experiment_splitting.pdf) <br/>
 Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW), 2019_.
 
 [The Bidder Exclusion Effect](/assets/papers/bidder_exclusion.pdf) <br/>
