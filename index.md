@@ -7,6 +7,9 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 ## Publications
 
+Top Challenges from the first Practical Online Controlled Experiments Summit(/assets/papers/challenges.pdf) <br/>
+Many co-authors. Forthcoming, _KDD Explorations, 2019_.
+
 Improving Treatment Effect Estimators Through Experiment Splitting <br/>
 Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW), 2019_.
 
@@ -34,11 +37,11 @@ Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
 
 ## Working Papers
 
+[The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
+Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Revise and Resubmit, _Marketing Science_.
+
 [A Theory of Bidding Dynamics and Deadlines in Online Retail](https://www.nber.org/papers/w22038.pdf) <br/>
 Dominic Coey, Bradley Larsen, Brennan Platt. _NBER Working Paper_.
-
-[The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
-Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _NBER Working Paper_.
 
 ## Contact
 Email: [myfirstname].[mylastname]@gmail.com.
