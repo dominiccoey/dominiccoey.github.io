@@ -7,7 +7,7 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 ## Publications
 
-Top Challenges from the first Practical Online Controlled Experiments Summit(/assets/papers/challenges.pdf) <br/>
+[Top Challenges from the first Practical Online Controlled Experiments Summit](/assets/papers/challenges.pdf) <br/>
 Many co-authors. Forthcoming, _KDD Explorations, 2019_.
 
 Improving Treatment Effect Estimators Through Experiment Splitting <br/>
