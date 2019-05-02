@@ -10,7 +10,7 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 [Top Challenges from the first Practical Online Controlled Experiments Summit](/assets/papers/challenges.pdf) <br/>
 Many co-authors. Forthcoming, _KDD Explorations, 2019_.
 
-Improving Treatment Effect Estimators Through Experiment Splitting <br/>
+[Improving Treatment Effect Estimators Through Experiment Splitting](/assets/papers/experiment_splitting.pdf) <br/>
 Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW), 2019_.
 
 [The Bidder Exclusion Effect](/assets/papers/bidder_exclusion.pdf) <br/>
