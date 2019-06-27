@@ -11,10 +11,10 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 Many co-authors. Forthcoming, _KDD Explorations, 2019_.
 
 [Improving Treatment Effect Estimators Through Experiment Splitting](/assets/papers/experiment_splitting.pdf) <br/>
-Dominic Coey, Tom Cunningham. Forthcoming, _The Web Conference (previously WWW), 2019_.
+Dominic Coey, Tom Cunningham. _The Web Conference (previously WWW), 2019_.
 
 [The Bidder Exclusion Effect](/assets/papers/bidder_exclusion.pdf) <br/>
-Dominic Coey, Bradley Larsen, Kane Sweeney. Forthcoming, _RAND Journal of Economics, 2019_. 
+Dominic Coey, Bradley Larsen, Kane Sweeney. _RAND Journal of Economics, 2019_. 
 
 [Ascending Auctions with Bidder Asymmetries](/assets/papers/ascending_asymmetries.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _Quantitative Economics, 2017_.
@@ -37,11 +37,12 @@ Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
 
 ## Working Papers
 
+[A Theory of Bidding Dynamics and Deadlines in Online Retail](https://www.nber.org/papers/w22038.pdf) <br/>
+Dominic Coey, Bradley Larsen, Brennan Platt. Revise and resubmit, _American Economic Review_.
+
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Revise and resubmit, _Marketing Science_.
 
-[A Theory of Bidding Dynamics and Deadlines in Online Retail](https://www.nber.org/papers/w22038.pdf) <br/>
-Dominic Coey, Bradley Larsen, Brennan Platt. _NBER Working Paper_.
 
 ## Contact
 Email: [myfirstname].[mylastname]@gmail.com.
