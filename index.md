@@ -37,7 +37,7 @@ Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
 
 ## Working Papers
 
-[A Theory of Bidding Dynamics and Deadlines in Online Retail](https://www.nber.org/papers/w22038.pdf) <br/>
+[Discounts and Deadlines in Consumer Search](/assets/papers/deadlines.pdf) <br/>
 Dominic Coey, Bradley Larsen, Brennan Platt. Revise and resubmit, _American Economic Review_.
 
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
