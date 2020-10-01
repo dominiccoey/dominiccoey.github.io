@@ -6,9 +6,11 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 
 ## Publications
+[Discounts and Deadlines in Consumer Search](/assets/papers/deadlines.pdf) <br/>
+Dominic Coey, Bradley Larsen, Brennan Platt. _American Economic Review, 2020_.
 
 [Top Challenges from the first Practical Online Controlled Experiments Summit](/assets/papers/challenges.pdf) <br/>
-Many co-authors. Forthcoming, _KDD Explorations, 2019_.
+Many co-authors. _KDD Explorations, 2019_.
 
 [Improving Treatment Effect Estimators Through Experiment Splitting](/assets/papers/experiment_splitting.pdf) <br/>
 Dominic Coey, Tom Cunningham. _The Web Conference (previously WWW), 2019_.
@@ -36,9 +38,6 @@ Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
 2014 American Economic Association Award for Best Paper in _AEJ: Microeconomics_.
 
 ## Working Papers
-
-[Discounts and Deadlines in Consumer Search](/assets/papers/deadlines.pdf) <br/>
-Dominic Coey, Bradley Larsen, Brennan Platt. Revise and resubmit, _American Economic Review_.
 
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Revise and resubmit, _Marketing Science_.
