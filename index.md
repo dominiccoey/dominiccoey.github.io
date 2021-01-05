@@ -6,6 +6,9 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 
 ## Publications
+[The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
+Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Forthcoming, _Marketing Science_.
+
 [Discounts and Deadlines in Consumer Search](/assets/papers/deadlines.pdf) <br/>
 Dominic Coey, Bradley Larsen, Brennan Platt. _American Economic Review, 2020_.
 
@@ -37,11 +40,7 @@ Thomas Blake, Dominic Coey. _EC, 2014_.
 Susan Athey, Dominic Coey, and Jonathan Levin. _AEJ: Microeconomics 2013_. <br/>
 2014 American Economic Association Award for Best Paper in _AEJ: Microeconomics_.
 
-## Working Papers
-
-[The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
-Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Revise and resubmit, _Marketing Science_.
-
+<!-- ## Working Papers -->
 
 ## Contact
 Email: [myfirstname].[mylastname]@gmail.com.
