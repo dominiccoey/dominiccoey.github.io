@@ -5,7 +5,10 @@ layout: default
 I'm a research scientist on the [Core Data Science](https://research.fb.com/category/data-science/) team at Facebook, where I manage the Economics, Algorithms and Optimization group. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on empirical Bayesian shrinkage estimators and experiment splitting, imperfect treatment assignment, experimentation in markets, and the empirical analysis of auctions.
 
 
-## Publications
+## Research Papers
+[Machine Learning for Variance Reduction in Online Experiments](https://arxiv.org/pdf/2106.07263.pdf) <br/>
+Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman
+
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Forthcoming, _Marketing Science_.
 
