@@ -7,7 +7,7 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 ## Research Papers
 [Machine Learning for Variance Reduction in Online Experiments](https://arxiv.org/pdf/2106.07263.pdf) <br/>
-Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman
+Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman.
 
 [The Simple Empirics of Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. Forthcoming, _Marketing Science_.
