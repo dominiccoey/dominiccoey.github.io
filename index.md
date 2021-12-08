@@ -6,10 +6,10 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 
 ## Publications
-[Machine Learning for Variance Reduction in Online Experiments](https://arxiv.org/pdf/2106.07263.pdf) <br/>
-Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman. _NeurIPS, 2021_.
+[Machine Learning for Variance Reduction in Online Experiments](/assets/papers/variance_reduction.pdf) <br/>
+Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman. _NeurIPS, 2021_. [Supplementary Material.](/assets/papers/variance_reduction_supplement.pdf)
 
-[Scalable Optimal Online Auctions](https://web.stanford.edu/~bjlarsen/optimal_online_auctions.pdf) <br/>
+[Scalable Optimal Online Auctions](/assets/papers/optimal_online_auctions.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney, Caio Waisman. _Marketing Science, 2021_.
 
 [Discounts and Deadlines in Consumer Search](/assets/papers/deadlines.pdf) <br/>
