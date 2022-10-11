@@ -7,7 +7,7 @@ I'm a research scientist on the [Core Data Science](https://research.fb.com/cate
 
 ## Research Papers
 [Empirical Bayesian Selection for Value Maximization](https://arxiv.org/abs/2210.03905) <br/>
-Dominic Coey, Kenneth Hung. Working paper.
+Dominic Coey, Kenneth Hung. _arXiv working paper, 2022_.
 
 [Machine Learning for Variance Reduction in Online Experiments](/assets/papers/variance_reduction.pdf) <br/>
 Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman. _NeurIPS, 2021_. [Supplementary Material.](/assets/papers/variance_reduction_supplement.pdf)
