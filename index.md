@@ -5,7 +5,10 @@ layout: default
 I'm a research scientist on the [Core Data Science](https://research.fb.com/category/data-science/) team at Meta, where I manage the Economics, Algorithms and Optimization group. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on empirical Bayesian shrinkage estimators and experiment splitting, imperfect treatment assignment, experimentation in markets, and the empirical analysis of auctions.
 
 
-## Publications
+## Research Papers
+[Empirical Bayesian Selection for Value Maximization](https://arxiv.org/abs/2210.03905) <br/>
+Dominic Coey, Kenneth Hung. Working paper.
+
 [Machine Learning for Variance Reduction in Online Experiments](/assets/papers/variance_reduction.pdf) <br/>
 Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman. _NeurIPS, 2021_. [Supplementary Material.](/assets/papers/variance_reduction_supplement.pdf)
 
