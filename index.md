@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm a Director and research scientist on the [Core Data Science](https://research.fb.com/category/data-science/) team at Meta, where I lead the Economics, Algorithms and Optimization group. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on empirical Bayesian shrinkage estimators and experiment splitting, imperfect treatment assignment, experimentation in markets, and the empirical analysis of auctions.
+I'm a Director and research scientist on the [Central Applied Science](https://research.fb.com/category/data-science/) team at Meta, where I lead the Economics, Algorithms and Optimization group. I'm interested in causal inference broadly, in both large-scale experimental and observational settings, and using insights from economic theory to inform strategy and decision-making. My research has included work on variance reduction, empirical Bayesian shrinkage estimators and experiment splitting, imperfect treatment assignment, and experimentation in markets.
 
 
 ## Research Papers
