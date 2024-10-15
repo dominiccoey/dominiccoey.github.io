@@ -6,6 +6,9 @@ I'm a Director and research scientist on the [Central Applied Science](https://r
 
 
 ## Research Papers
+[Experimentation on Endogenous Graphs](https://arxiv.org/abs/2410.09267) <br/>
+Wenshuo Wang, Edvard Bakhitov, Dominic Coey. _arXiv working paper, 2024_.
+
 [Empirical Bayesian Selection for Value Maximization](https://arxiv.org/abs/2210.03905) <br/>
 Dominic Coey, Kenneth Hung. _arXiv working paper, 2022_.
 
