@@ -6,11 +6,14 @@ I'm a Director and research scientist on the [Central Applied Science](https://r
 
 I received a PhD in Economics from Stanford, a MSc in Econometrics and Mathematical Economics from LSE, and a BA in Philosophy, Politics and Economics from the University of Oxford.
 
-## Miscellaneous Writing
+## Miscellaneous Writing/Other Stuff
+
+[modelmash.ai](https://modelmash.ai), for comparing output across LLMs
 
 [All hail the ELBO: Why you should care about the evidence lower bound](https://dominiccoey.github.io/essays/elbo/)
 
 [Baumol’s Cost Disease, AI & Economic Growth](https://dominiccoey.github.io/essays/baumol/)
+
 
 ## Research Papers
 [Empirical Bayesian Selection for Value Maximization](https://arxiv.org/abs/2210.03905) <br/>
