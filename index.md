@@ -20,7 +20,7 @@ I received a PhD in Economics from Stanford, a MSc in Econometrics and Mathemati
 Wenshuo Wang, Edvard Bakhitov, Dominic Coey. _AAAI, 2026_.
 
 [Empirical Bayesian Selection for Value Maximization](https://arxiv.org/abs/2210.03905) <br/>
-Dominic Coey, Kenneth Hung. _KDD, 2025_
+Dominic Coey, Kenneth Hung. _KDD, 2025_.
 
 [Machine Learning for Variance Reduction in Online Experiments](/assets/papers/variance_reduction.pdf) <br/>
 Yongyi Guo, Dominic Coey, Mikael Konutgan, Wenting Li, Chris Schoener, Matt Goldman. _NeurIPS, 2021_. [Supplementary Material.](/assets/papers/variance_reduction_supplement.pdf)
