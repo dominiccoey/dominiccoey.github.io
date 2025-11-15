@@ -35,7 +35,7 @@ Dominic Coey, Bradley Larsen, Brennan Platt. _American Economic Review, 2020_.
 Many co-authors. _KDD Explorations, 2019_.
 
 [Improving Treatment Effect Estimators Through Experiment Splitting](/assets/papers/experiment_splitting.pdf) <br/>
-Dominic Coey, Tom Cunningham. _The Web Conference (previously WWW), 2019_.
+Dominic Coey, Tom Cunningham. _The Web Conference, 2019_.
 
 [The Bidder Exclusion Effect](/assets/papers/bidder_exclusion.pdf) <br/>
 Dominic Coey, Bradley Larsen, Kane Sweeney. _RAND Journal of Economics, 2019_. 
