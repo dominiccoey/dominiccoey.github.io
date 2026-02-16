@@ -8,8 +8,6 @@ I received a PhD in Economics from Stanford, a MSc in Econometrics and Mathemati
 
 ## Miscellaneous Writing/Other Stuff
 
-[modelmash.ai](https://modelmash.ai), for comparing output across LLMs
-
 [All hail the ELBO: Why you should care about the evidence lower bound](https://dominiccoey.github.io/essays/elbo/)
 
 [Baumol’s Cost Disease, AI & Economic Growth](https://dominiccoey.github.io/essays/baumol/)
