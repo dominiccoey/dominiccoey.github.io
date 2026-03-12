@@ -6,7 +6,9 @@ I'm a Director and research scientist on the [Central Applied Science](https://r
 
 I received a PhD in Economics from Stanford, a MSc in Econometrics and Mathematical Economics from LSE, and a BA in Philosophy, Politics and Economics from the University of Oxford.
 
-## Miscellaneous Writing/Other Stuff
+## Miscellaneous Writing
+
+[Why do economists and AI optimists talk past each other, or notes on Jones-Tonetti.](https://dominiccoey.github.io/essays/jones-tonetti/)
 
 [The Firm in the Centaur Age](https://dominiccoey.github.io/essays/centaur/)
 
