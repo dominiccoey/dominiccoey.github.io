@@ -8,7 +8,7 @@ I received a PhD in Economics from Stanford, a MSc in Econometrics and Mathemati
 
 ## Miscellaneous Writing
 
-[Why economists and AI optimists talk past each other](https://dominiccoey.github.io/essays/jones-tonetti/)
+[Why Economists and AI optimists talk past each other](https://dominiccoey.github.io/essays/jones-tonetti/)
 
 [The Firm in the Centaur Age](https://dominiccoey.github.io/essays/centaur/)
 
